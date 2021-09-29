@@ -26,7 +26,7 @@ Chào các bạn =)))) Những ngày vừa rồi các bạn đã tham gia cuộc
  |[LIFO](#Binary-100-LIFO)| Binary| 100 |`CTF{0x41414117}`|
  |[Con trỏ](#Binary-100-Con-trỏ)| Binary | 100 |`CTF{0x11B0C627}`|
  |[Mã máy](#Binary-200-Mã-máy) | Binary | 200  | `CTF{computers_only_understand_machine_code}`|
- |[Mã rối](#Binary-200-Mã-rối) | Binary | 300  | `CTF{CTF{0bfuc4t10n}}`|
+ |[Mã rối](#Binary-200-Mã-rối) | Binary | 300  | `CTF{0bfuc4t10n}}`|
  |[Buffer Overflow 101](#Binary-400-Buffer-Overflow-101) | Binary | 400 | `CTF{Buff4r_0v3rfl0w}` |
 
 # Programming 100: Trò chơi tính tổng
