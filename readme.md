@@ -162,7 +162,7 @@ print (banner)
 
 ![socket](WUfiles/socket4.png)
 
-Như vậy mình chửi việc gửi đến khi có Flag thì dừng lại. Mình sẽ chỉnh sửa lại code 1 xíu cho đơn giản
+Như vậy mình gửi việc gửi đến khi có Flag thì dừng lại. Mình sẽ chỉnh sửa lại code 1 xíu cho đơn giản
 
 ```Python
 import socket
