@@ -1,6 +1,6 @@
 # Junior Hacking Talent 2021
 
-Chào các bạn =)))) Những ngày vừa rồi các bạn đã tham giacuộc thi CTF Junior Hacking Talent 2021 chưa??? có khúc mắc gì không nàooo?? Nếu có thì ngồi xuống và xem Writeup của chúng mình để được khai sang ngay nhé :3
+Chào các bạn =)))) Những ngày vừa rồi các bạn đã tham gia cuộc thi CTF Junior Hacking Talent 2021 chưa??? có khúc mắc gì không nàooo?? Nếu có thì ngồi xuống và xem Writeup của chúng mình để được khai sang ngay nhé :3
 
 
 
