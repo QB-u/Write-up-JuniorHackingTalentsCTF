@@ -198,6 +198,7 @@ Flag tìm được là: CTF{can_you_write_your_own_socket}
 Flag: CTF{can_you_write_your_own_socket}
 
 # Web 100: Mật báo
+
 #### Challenge
 "Người chơi Z! Bạn đã sẵn sàng chưa?" - Tai nghe của bạn phát ra thông báo.
 
@@ -211,13 +212,13 @@ Bỗng nhiên trong một thoáng, bạn đã dịch chuyển tới một nơi r
 Truy cập vào trang web theo đường link có trong đề
 http://castle.kid.cyberjutsu-lab.tech/secret.php
 
-![matbao1](WUfiles/mat_bao1.png)
+![matbao1](WUfiles/Mat_bao1.png)
 
 Màn hình lập tức hiển thị ra một căn phòng theo phong cách cổ kính với nội thất sang trọng trông rất đẹp.
 Thoạt nhìn thì sẽ thấy không có gì khả nghi nhưng "Đừng vội đánh giá quyển sách chỉ qua trang bìa của nó." Vậy chúng ta hãy đi dạo một vòng quanh ngôi nhà để tìm kiếm nào.
 Khoan, nếu bạn để ý kỹ sẽ thấy ở góc bên trái có một mẩu giấy be bé nếu không để ý kỹ sẽ rất khó để phát hiện ra. Trên tờ giấy ghi dòng chữ “Bạn không thể thấy được những thứ dưới bên dưới lỗ mũi của mình”. Câu văn hơi lủng củng nhưng có vẻ như ý của tờ giấy là trong căn phòng này chứa thứ gì đó bí ẩn mà bạn không thể nhìn thấy một cách trực tiếp. Ta có thể thấy một trang web hoàn chỉnh bởi những thứ nó hiện lên màn là công khai, vậy những thứ không hiện lên trên trang web thì ta làm thế nào để xem??? Rất đơn giản, bạn có thể click chuột phải và chọn ‘Inspect’ để bắt đầu điều tra về trang web.
 
-![matbao2](WUfiles/mat_bao2.png)
+![matbao2](WUfiles/Mat_bao2.png)
 
 Ơ hình như có thông điệp gì đó được nhắn lại trong phần Elements kìa. Phần văn bản này đã được comment bằng các ký hiệu \<!-- !--> tức là tất cả những thứ nằm trong ký hiệu này đều không được chạy mà chỉ nằmyên ở đây thôi, chính vì vậy nên nó không được hiển thị lên màn hình. Challenge Web đầu tiên có vẻ khá dễ dàng nhỉ ^^
 
