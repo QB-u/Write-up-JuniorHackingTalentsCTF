@@ -16,7 +16,7 @@ Chào các bạn =)))) Những ngày vừa rồi các bạn đã tham gia cuộc
  | [Hành lang tối](#WEB-100-Hành-lang-tối) | Web | 100 | `CTF{s3crEt_hEaD3r}` |
  | [Rương bí mật](#WEB-200-Rương-bí-mật) | Web | 200 | `CTF{wHy_1+1=11_iN_JS?}`|
  | [Lối thoát](#WEB-300-lối-thoát) | Web | 300 | `CTF{iframe_communication}` |
- | [Ổ cứng cuối cùng](#WEB-500-Ổ-cứng-cuối-cùng) | Web | 500 | `CTF{f1Le_uPl0aD_plUs_p@th_trAv3rsal}` |
+ | [Ổ cứng cuối cùng](#web-400-ổ-cứng-cuối-cùng) | Web | 500 | `CTF{f1Le_uPl0aD_plUs_p@th_trAv3rsal}` |
  | [Discord](#Forensics-100-Discord) | Forensics  | 100 | `CTF{Remember_2_read_the_rules!!!}` |
  | [Mật thư trong ảnh](#Forensics-100-Mật-thư-trong-ảnh) | Forensics | 100 | `CTF{I_was_here_all_the_time}` |
  | [Ổ đĩa hỏng](#Forensics-100-Ổ-đĩa-hỏng) | Forensics | 100 | `CTF{You_cannot_see_me}` |
